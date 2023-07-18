@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ar": "^0.0.1",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2",
+    "mind": "^0.0.2",
+    "three": "^0.154.0"
+  }
+}
